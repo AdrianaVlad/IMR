@@ -7,3 +7,6 @@ Lab2: e putin greu de simulat o aruncare folosing mouse ul, deoarece miscarea fa
 la calculul score ului in functie de distanta, am luat in considerare pozitia 'camera offset' (nu copilul ei, 'main camera') ca fiind pozitia jucatorului. nu sunt sigura ca asta trebuia facut, dar am inclus alte variante in script (drept comentariu) la locul faptei.  
 ps: nu am utilizat unity recording deoarece cauza putin lag, dar destul incat sa nu mai reusesc sa nimeresc tintele.  
 video: https://drive.google.com/file/d/11Wq-eW73bdAO_OEGm6bW1fLJPdPmkM4e/view?usp=sharing  
+Lab3: modelul se gasescte in Assets/CustomModels in folderul Lab2-3, denumit asa deoarece am inlocuit assetul controalelor tipice cu mainile create la aceasta tema, dar proiectul in rest e identic  
+nu sunt sigura daca trebuia videoclip si ce trebuia in el, asa ca am aratat iar niste gameplay, in care am incercat sa invart putin mainile. 
+video: https://drive.google.com/file/d/1_bSuTh27c4eIiFD5q4x9vIYsoJesXj_s/view?usp=sharing
